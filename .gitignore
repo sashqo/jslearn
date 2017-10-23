@@ -1,4 +1,6 @@
 .log
 node_modules
+dist
+puplic/dist
 .DS_Store
 *tmp
